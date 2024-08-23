@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Me+chamo+Yuri!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=,Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
 🎓 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas.
 
