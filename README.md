@@ -14,6 +14,6 @@
 
 <h3 align="left">Vamos nos conectar?</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yuri-nunes-7300661b6/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yuri-nunes-828683320" /></a>
+<a href="https://www.linkedin.com/in/yuri-nunes-828683320/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yuri-nunes-828683320/" /></a>
 <a href="https://www.instagram.com/_yuricn/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_yuricn"  /></a>
 </p>  
