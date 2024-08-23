@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%AD0DD9&width=450&lines=Olá,+tudo+Bem?;Me+chamo+Yuri!)](https://git.io/typing-svg)
 
-🎓 Cursando tecnólogo em Análise e desenvolvimento de sistemas na Impacta.
+🎓 Cursando tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 🐍 Estudando e aperfeiçoando meus conhecimentos em Python.
 
-👩‍💻 Meu foco é sempre aprender e buscar novos desafios para meu aprendizado.
+👩‍💻 Focado em sempre me aperfeiçoar e buscar novos desafios para meu aprendizado.
 
-🔧 Uma curiosidade sobre mim é que gosto sempre de resolver problemas.<br></br>
 
 
 `"Quanto mais aprendemos, mais percebemos o quão pouco sabemos"`<br></br>
