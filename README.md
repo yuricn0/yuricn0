@@ -19,8 +19,6 @@
 </p>
 
 <p align="left">
-  <a href="yuri.ydcns@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=yuri.ydcns@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/yuri-cruz-nunes" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-cruz-nunes" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511930049601" title="WhatsApp">
