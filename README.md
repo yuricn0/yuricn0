@@ -3,15 +3,23 @@
 <p align="left"> 
   <h1>Olá, sou o Yuri. Seja bem-vindo!</h1>  
   
-  Estudante de Análise e Desenvolvimento de Sistemas e Freelancer em automações.
+  Estudante de Análise e Desenvolvimento de Sistemas com foco em backend utilizando o framework Spring.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, HTML, CSS, SQL
+  🦄 Linguagens: Java, Python, SQL
 </p>
 
 <p align="left">
-  💼 Ferramentas: Git, Github, VsCode, Selenium, DevTools
+  💼 Frameworks: Spring (Java), Selenium (Python) 
+</p>
+
+<p align="left">
+  🛠 Ferramentas: Git, Github, Postman, DevTools, Maven, VScode, Eclipse 
+</p>
+
+<p align="left">
+  📁 Bancos de Dados: MySQL, SqlServer 
 </p>
 
 <p align="left">
