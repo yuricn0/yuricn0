@@ -7,15 +7,21 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java, Python, SQL
+  🦄 Linguagens: Java, Python, SQL, Typescript, HTML, CSS
 </p>
 
 <p align="left">
-  💼 Frameworks: Spring (Java), Selenium (Python) 
+  💼 Frameworks: 
+
+  Back-end: Spring
+  
+  Front-end: Angular
+  
+  Automações: Selenium, Scrapy
 </p>
 
 <p align="left">
-  🛠 Ferramentas: Git, Github, Postman, DevTools, Maven, VScode, Eclipse 
+  🛠 Ferramentas: Git, Github, Postman, DevTools, Maven, VScode, Eclipse
 </p>
 
 <p align="left">
