@@ -3,7 +3,7 @@
 <p align="left"> 
   <h1>Olá, sou o Yuri. Seja bem-vindo!</h1>  
   
-  Estudante de Análise e Desenvolvimento de Sistemas com foco em backend utilizando o framework Spring.
+  Estudante de Análise e Desenvolvimento de Sistemas com foco em backend utilizando o framework SpringBoot.
 </p>
 
 <p align="left">
@@ -13,15 +13,13 @@
 <p align="left">
   💼 Frameworks: 
 
-  Back-end: Spring
+  Back-end: Springboot
   
   Front-end: Angular
-  
-  Automações: Selenium, Scrapy
 </p>
 
 <p align="left">
-  🛠 Ferramentas: Git, Github, Postman, DevTools, Maven, VScode, Eclipse
+  🛠 Ferramentas: Git, Github, Postman, DevTools, VScode, Eclipse, Swagger
 </p>
 
 <p align="left">
