@@ -3,7 +3,7 @@
 <p align="left"> 
   <h1>Olá, sou o Yuri. Seja bem-vindo!</h1>  
   
-  Estudante de Análise e Desenvolvimento de Sistemas com foco em backend utilizando o framework SpringBoot.
+  Estudante de Análise e Desenvolvimento de Sistemas com foco em back-end.
 </p>
 
 <p align="left">
